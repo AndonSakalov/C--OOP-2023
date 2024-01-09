@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.exe
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.deps.json
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.runtimeconfig.json
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.dll
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.pdb
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfo.cs
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.dll
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\refint\04.BorderControl.dll
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.pdb
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.genruntimeconfig.cache
+C:\Users\ASUS\source\C#-OOP 2023\03.InterfacesAndAbstraction-Exercise\04.BorderControl\obj\Debug\net6.0\ref\04.BorderControl.dll

@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\bin\Debug\net6.0\02.Salary.exe
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\bin\Debug\net6.0\02.Salary.deps.json
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\bin\Debug\net6.0\02.Salary.runtimeconfig.json
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\bin\Debug\net6.0\02.Salary.dll
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\bin\Debug\net6.0\02.Salary.pdb
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.AssemblyInfo.cs
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.dll
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\refint\02.Salary.dll
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.pdb
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\02.Salary.genruntimeconfig.cache
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\02.Salary\obj\Debug\net6.0\ref\02.Salary.dll

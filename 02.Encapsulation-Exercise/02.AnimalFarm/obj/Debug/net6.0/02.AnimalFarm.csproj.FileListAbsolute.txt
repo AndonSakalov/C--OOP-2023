@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\bin\Debug\net6.0\02.AnimalFarm.exe
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\bin\Debug\net6.0\02.AnimalFarm.deps.json
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\bin\Debug\net6.0\02.AnimalFarm.runtimeconfig.json
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\bin\Debug\net6.0\02.AnimalFarm.dll
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\bin\Debug\net6.0\02.AnimalFarm.pdb
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\obj\Debug\net6.0\02.AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\obj\Debug\net6.0\02.AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\obj\Debug\net6.0\02.AnimalFarm.AssemblyInfo.cs
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\obj\Debug\net6.0\02.AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\obj\Debug\net6.0\02.AnimalFarm.dll
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\obj\Debug\net6.0\refint\02.AnimalFarm.dll
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\obj\Debug\net6.0\02.AnimalFarm.pdb
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\obj\Debug\net6.0\02.AnimalFarm.genruntimeconfig.cache
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Exercise\02.AnimalFarm\obj\Debug\net6.0\ref\02.AnimalFarm.dll

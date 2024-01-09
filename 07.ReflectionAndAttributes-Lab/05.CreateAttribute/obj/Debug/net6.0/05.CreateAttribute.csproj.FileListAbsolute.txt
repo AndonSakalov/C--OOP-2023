@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.exe
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.deps.json
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.runtimeconfig.json
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.dll
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.pdb
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.AssemblyInfo.cs
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.dll
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\refint\05.CreateAttribute.dll
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.pdb
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.genruntimeconfig.cache
+C:\Users\ASUS\source\C#-OOP 2023\07.ReflectionAndAttributes-Lab\05.CreateAttribute\obj\Debug\net6.0\ref\05.CreateAttribute.dll

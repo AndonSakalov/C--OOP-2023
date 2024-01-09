@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.exe
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.deps.json
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.runtimeconfig.json
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.dll
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\bin\Debug\net6.0\01.Vehicles.pdb
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.AssemblyInfo.cs
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.dll
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\refint\01.Vehicles.dll
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.pdb
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\01.Vehicles.genruntimeconfig.cache
+C:\Users\ASUS\source\C#-OOP 2023\04.Polymorphism-Exercise\01.Vehicles\obj\Debug\net6.0\ref\01.Vehicles.dll

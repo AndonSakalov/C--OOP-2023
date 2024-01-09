@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.deps.json
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.dll
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\CarManager\bin\Debug\net6.0\CarManager.pdb
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.AssemblyInfo.cs
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.dll
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\refint\CarManager.dll
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\CarManager.pdb
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\CarManager\obj\Debug\net6.0\ref\CarManager.dll

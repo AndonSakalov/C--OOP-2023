@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.exe
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.deps.json
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.runtimeconfig.json
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.dll
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\bin\Debug\net6.0\01.Persons.pdb
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.AssemblyInfo.cs
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.dll
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\refint\01.Persons.dll
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.pdb
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\01.Persons.genruntimeconfig.cache
+C:\Users\ASUS\source\C#-OOP 2023\02.Encapsulation-Lab\01.Persons\obj\Debug\net6.0\ref\01.Persons.dll

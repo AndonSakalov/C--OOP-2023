@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\Database\bin\Debug\net6.0\Database.dll
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.dll
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\ASUS\source\C#-OOP 2023\08.UnitTesting-Exercise\Database\obj\Debug\net6.0\ref\Database.dll
